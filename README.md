@@ -8,21 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pedro-Korb&style=for-the-badge&color=E10600&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-<br>
-
-<h3 align="center">🎧 No fone agora</h3>
-<p align="center">
-  <a href="https://open.spotify.com/user/31ifzye4vvskb3px4a3znhnadqmu">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ifzye4vvskb3px4a3znhnadqmu&cover_image=true&theme=default&show_offline=true&background_color=282828&bar_color=e10600&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</p>
-
-<br>
-
 ## 🚀 Sobre mim
 
 Desenvolvedor **Full-Stack PHP** e graduando em **Ciência da Computação** no **IFC – Campus Rio do Sul**, hoje fazendo parte do time da **IPM Sistemas**. Gosto de construir sistemas web eficientes e tenho atenção especial por modelagem e performance de banco de dados.
@@ -63,13 +48,22 @@ Desenvolvedor **Full-Stack PHP** e graduando em **Ciência da Computação** no 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-korb-3ba0b3223/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBBNjZDMiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/pedrokorb_/">
     <img src="https://img.shields.io/badge/Instagram-0A0A0A.svg?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
   <a href="https://open.spotify.com/user/31ifzye4vvskb3px4a3znhnadqmu">
     <img src="https://img.shields.io/badge/Spotify-0A0A0A.svg?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify" />
+  </a>
+</p>
+
+<br>
+
+<h3 align="center">🎧 No fone agora</h3>
+<p align="center">
+  <a href="https://open.spotify.com/user/31ifzye4vvskb3px4a3znhnadqmu">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ifzye4vvskb3px4a3znhnadqmu&cover_image=true&theme=novatorem&show_offline=true&bar_color=e10600&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </p>
 
