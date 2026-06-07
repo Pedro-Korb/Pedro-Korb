@@ -27,10 +27,6 @@ Desenvolvedor **Full-Stack PHP** e graduando em **Ciência da Computação** no 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedro-Korb&bg_color=0d0d0d&color=e8e6e3&line=e10600&point=d4af37&area=true&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Pedro-Korb/Pedro-Korb/output/snake-dark.svg" width="100%" alt="Snake animation" />
 </p>
 
