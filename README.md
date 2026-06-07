@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:e10600&height=200&section=header&text=Pedro%20H.%20Korb&fontColor=e8e6e3&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20PHP%20Developer%20%E2%80%A2%20Backend%20%26%20Banco%20de%20Dados&descAlignY=58&descSize=16&descColor=d4af37" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:e10600&height=200&section=header&text=Pedro%20H.%20Korb&fontColor=e8e6e3&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20PHP%20Developer%20%E2%80%A2%20Backend%20e%20Banco%20de%20Dados&descAlignY=58&descSize=16&descColor=d4af37" width="100%" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <h3 align="center">🎧 No fone agora</h3>
 <p align="center">
   <a href="https://open.spotify.com/user/31ifzye4vvskb3px4a3znhnadqmu">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ifzye4vvskb3px4a3znhnadqmu&cover_image=true&theme=novatorem&show_offline=true&background_color=282828&bar_color=e10600&bar_color_cover=true" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ifzye4vvskb3px4a3znhnadqmu&cover_image=true&theme=default&show_offline=true&background_color=282828&bar_color=e10600&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </p>
 
@@ -38,11 +38,6 @@ Desenvolvedor **Full-Stack PHP** e graduando em **Ciência da Computação** no 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pedro-Korb&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0d0d&title_color=e10600&icon_color=d4af37&text_color=e8e6e3" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Korb&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d0d&title_color=e10600&text_color=e8e6e3" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Pedro-Korb&hide_border=true&background=0d0d0d&stroke=e10600&ring=e10600&fire=d4af37&currStreakNum=e8e6e3&sideNums=e8e6e3&currStreakLabel=e10600&sideLabels=e8e6e3&dates=8b8b8b" alt="GitHub Streak" />
 </p>
 
@@ -51,7 +46,7 @@ Desenvolvedor **Full-Stack PHP** e graduando em **Ciência da Computação** no 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pedro-Korb/Pedro-Korb/output/snake.svg" width="100%" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Pedro-Korb/Pedro-Korb/output/snake-dark.svg" width="100%" alt="Snake animation" />
 </p>
 
 <br>
