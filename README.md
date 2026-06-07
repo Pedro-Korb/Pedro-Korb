@@ -13,7 +13,7 @@ Sou desenvolvedor **Full-Stack PHP** e graduando em **Ciência da Computação**
 
 ### 📊 Atividade no GitHub
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Korb&theme=dracula" />
+  <img src="https://streak-stats.demolab.com/?user=Pedro-Korb&theme=dracula" />
 </div>
 <br>
 <br>
