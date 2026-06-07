@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:e10600&height=200&section=header&text=Pedro%20H.%20Korb&fontColor=e8e6e3&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20PHP%20Developer%20%E2%80%A2%20Backend%20e%20Banco%20de%20Dados&descAlignY=58&descSize=16&descColor=d4af37" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Pedro-Korb">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=E10600&center=true&vCenter=true&width=620&lines=Full-Stack+PHP+Developer;Backend+%26+Banco+de+Dados;PostgreSQL+%26+MySQL;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%A2+IFC" alt="Typing SVG" />
   </a>
