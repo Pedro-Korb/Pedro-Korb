@@ -22,24 +22,6 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Diminuir velocidade da cobrinha
-        run: |
-          chmod -R u+w dist
-          python3 - <<'PY'
-          import re
-          from pathlib import Path
-
-          for file in [Path("dist/snake.svg"), Path("dist/snake-dark.svg")]:
-              text = file.read_text()
-
-              def slow_down(match):
-                  value = float(match.group(1))
-                  return f'dur="{value * 2:g}s"'
-
-              text = re.sub(r'dur="([0-9.]+)s"', slow_down, text)
-              file.write_text(text)
-          PY
-
       - name: Publicar na branch "output"
         uses: crazy-max/ghaction-github-pages@v4
         with:
