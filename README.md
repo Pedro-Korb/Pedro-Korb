@@ -55,7 +55,8 @@ Desenvolvedor **Full-Stack PHP** e graduando em **Ciência da Computação** no 
 <h3 align="center">🎧 No fone agora</h3>
 <p align="center">
   <a href="https://open.spotify.com/user/31ifzye4vvskb3px4a3znhnadqmu">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ifzye4vvskb3px4a3znhnadqmu&cover_image=true&theme=novatorem&show_offline=true&bar_color=e10600&bar_color_cover=true" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ifzye4vvskb3px4a3znhnadqmu&cover_image=true&theme=spotify-embed&show_offline=true&mode=dark"
+      alt="Spotify Now Playing"/>
   </a>
 </p>
 
